@@ -1,4 +1,4 @@
-# iw08 SMDB影评app之西译英
+# iw07 SMDB影评app之西译英
 
 基于提供的xcode工程SMDB(位于starter文件夹下），notebook(notebooks/Char-Seq2Seq-Complete.ipynb)，和数据集spa.txt(notebooks/data/spa.txt)，完成下列任务：
 
